@@ -16,4 +16,4 @@ hello cqupt !hello git	master test2
 111111111111111111111111111111111111
 来点中文的吧        by chia
 欢迎点歌
-  我又更新啦！！！
+  我又更新啦！
